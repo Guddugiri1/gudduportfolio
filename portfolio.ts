@@ -161,6 +161,8 @@ export const experience: ExperienceType[] = [
   // },
 ];
 
+// define project type
+
 export const projects: ProjectType[] = [
   {
     name: "My Portfolio",
