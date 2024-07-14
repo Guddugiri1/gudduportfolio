@@ -12,24 +12,24 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "Guddu Giri",
+  title: "Hi all, I'm Guddu",
   description:
-    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "#",
+    "I'm a passionate Full Stack Web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
+  resumeLink: "https://drive.google.com/file/d/1zdKJ7XWuAebfoNVAz9lX_vCrP-LOksXv/view?usp=sharing",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "guddugiri1",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:hanzla.tauqeer123@gmail.com",
-  linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/1hanzla100",
-  instagram: "https://www.instagram.com/__hanzla100",
+  email: "mailto:guddugiri216@gmail.com",
+  linkedin: "https://www.linkedin.com/in/guddu-giri-505597266/",
+  github: "https://github.com/Guddugiri1",
+  instagram: "https://www.instagram.com/guddu_giri07",
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
 };
@@ -99,59 +99,71 @@ export const SkillBars: SkillBarsType[] = [
   },
   {
     Stack: "Programming",
-    progressPercentage: "95",
+    progressPercentage: "98",
+  },
+  {
+    Stack: "Web Development",
+    progressPercentage: "96",
   },
 ];
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: "University of Central Punjab",
-    subHeader: "Bachelor of Science in Computer Science",
-    duration: "September 2017 - April 2020",
+    schoolName: "Gurukul Mission Sr.Sec. School",
+    subHeader: "Higher Secondary Certificate (HSC)",
+    duration: "S April 2020 - July 2021",
     desc: "",
-    grade: "Grade A",
+    grade: "63 %",
+    descBullets: [],
+  },
+  {
+    schoolName: "Aditya Silver Oak Institute Of Technology",
+    subHeader: "Bachelor of Science in Computer Science",
+    duration: "September 2022 - Present",
+    desc: "",
+    grade: "Current SPI 7.13",
     descBullets: [], // Array of Strings
   },
 ];
 
 export const experience: ExperienceType[] = [
   {
-    role: "Django Developer",
-    company: "Meganos Software",
-    companyLogo: "/img/icons/common/meganos.png",
-    date: "Aug 2022 - Present",
-    desc: "I crafted backends for diverse web apps, APIs, and WebSockets in e-commerce, podcasts, and property management. Managed server upkeep, deployments on Linux, Heroku, and AWS S3. Implemented PyTest for automated unit and integration testing, slashing 4 hours of manual testing each sprint, fortifying a dependable and flawless code foundation.",
+    role: "Fullstack Software Engineer",
+    company: "StaytunedLLP",
+    companyLogo: "/img/icons/common/download.png",
+    date: "June 12,2023 - Sept 02,2023",
+    desc: " I have gained a solid foundation in Rust programming through thorough learning and practical experience. This includes building a functional calculator application, demonstrating proficiency in key programming concepts. Additionally, I've applied Rust in both front-end and back-end development, gaining full-stack experience. These experiences have sharpened my problem-solving, analytical thinking, and teamwork skills through collaborative projects.",
   },
-  {
-    role: "Full Stack Developer",
-    company: "Duseca Software",
-    companyLogo: "/img/icons/common/duseca_software_logo.jpeg",
-    date: "Jan 2022 - Sept 2023",
-    desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
-    // descBullets: [
-    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    // ],
-  },
-  {
-    role: "Full Stack Developer",
-    company: "ZRTechnologies",
-    companyLogo: "/img/icons/common/zrtech.jpeg",
-    date: "Aug 2022 - Jun 2023",
-    desc: "Crafting diverse web applications, I've elevated functionality and user engagement. Spearheaded Visual Portfolio, leveraging AI for captivating presentations from parsed text. Proficiently set up and optimized applications on Linux servers, guaranteeing smooth scalability and top-notch performance for seamless user experiences.",
-  },
-  {
-    role: "Backend Developer",
-    company: "Bleed-AI",
-    companyLogo: "/img/icons/common/bleedAI.jpg",
-    date: "Sept 2021 - Oct 2021",
-    desc: "As a Django developer at Bleed AI, I integrated a computer vision AI model to process YouTube URLs on a website. I used Django Channels and Websockets to show real-time processing and implemented threading to run multiple instances of the AI model. I also used jQuery for UI rendering and deployed the website on a Heroku server.",
-  },
+  // {
+  //   role: "Full Stack Developer",
+  //   company: "Duseca Software",
+  //   companyLogo: "/img/icons/common/duseca_software_logo.jpeg",
+  //   date: "Jan 2022 - Sept 2023",
+  //   desc: "Crafted robust mobile application backends employing Django, Python, and REST APIs. Leveraged Django REST Framework, PostgreSQL, AWS, Firebase, Stripe, and WebSocket for efficient development. Collaborated across teams to surpass client expectations. Designed intuitive UIs, empowering clients to effortlessly manage their applications with a visually captivating interface.",
+  // descBullets: [
+  // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+  // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  // ],
+  // },
+  // {
+  //   role: "Full Stack Developer",
+  //   company: "ZRTechnologies",
+  //   companyLogo: "/img/icons/common/zrtech.jpeg",
+  //   date: "Aug 2022 - Jun 2023",
+  //   desc: "Crafting diverse web applications, I've elevated functionality and user engagement. Spearheaded Visual Portfolio, leveraging AI for captivating presentations from parsed text. Proficiently set up and optimized applications on Linux servers, guaranteeing smooth scalability and top-notch performance for seamless user experiences.",
+  // },
+  // {
+  //   role: "Backend Developer",
+  //   company: "Bleed-AI",
+  //   companyLogo: "/img/icons/common/bleedAI.jpg",
+  //   date: "Sept 2021 - Oct 2021",
+  //   desc: "As a Django developer at Bleed AI, I integrated a computer vision AI model to process YouTube URLs on a website. I used Django Channels and Websockets to show real-time processing and implemented threading to run multiple instances of the AI model. I also used jQuery for UI rendering and deployed the website on a Heroku server.",
+  // },
 ];
 
 export const projects: ProjectType[] = [
   {
-    name: "developer-portfolio",
+    name: "My Portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
     github: "https://github.com/1hanzla100/developer-portfolio",
     link: "https://developer-portfolio-1hanzla100.vercel.app/",
