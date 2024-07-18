@@ -133,5 +133,5 @@ Give a ⭐️ if this project helped you! You can buy me a coffee if you'd like 
 👤 **Guddu Giri**
 
 - Website: https://gudduportfolio.vercel.app/
-- Github: [@1hanzla100](https://github.com/guddugiri1)
-- LinkedIn: [@1hanzla100](https://linkedin.com/in/guddu-giri-505597266/)
+- Github: [@guddugiri1](https://github.com/guddugiri1)
+- LinkedIn: [@guddu-giri-505597266](https://linkedin.com/in/guddu-giri-505597266/)
