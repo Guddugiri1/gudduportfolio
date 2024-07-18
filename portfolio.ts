@@ -20,7 +20,7 @@ export const greetings: GreetingsType = {
 };
 
 export const openSource = {
-  githubUserName: "guddugiri1",
+  githubUserName: "Guddugiri1",
 };
 
 export const contact = {};
@@ -167,61 +167,58 @@ export const projects: ProjectType[] = [
   {
     name: "My Portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/Guddugiri1/gudduportfolio",
+    link: "https://gudduportfolio.vercel.app/",
   },
   {
-    name: "Giebo",
-    desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-    link: "https://gibeo.io/",
+    name: "Cluix Pvt.Ltd",
+    desc: "Successfully led the development and implementation of an e-commerce platform for Cluix LLP Water Testing Company, enabling seamless online product ordering for customers through integrated payment gateway solutions.",
+    link: "https://www.cluix.in/",
   },
   {
-    name: "O Mejor Oferta",
-    desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
-    link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
+    name: "Sportskomaki",
+    desc: "Developed a dynamic and user-friendly website for SportsKomaki, a leading bike showroom. The website provides an immersive online experience for customers to explore the latest models, check specifications, and even schedule test rides.",
+    link: "https://sportskomaki.in/",
   },
   {
-    name: "Hooligan Culture",
-    desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
-    link: "https://hooliganculture.com/",
+    name: "Jugaad Business",
+    desc: " Led the development team in designing and building a professional website for a business consulting firm specializing in strategy, operations, and organizational development. The website serves as a key marketing and client engagement platform.",
+    link: "https://www.jugaadbusiness.com/",
+  },
+  {
+    name: "Anjaneya Sewa Samiti",
+    desc: " Designed and developed the Anjaneya Sewa Samiti food donation charity trust website from front to back-end, ensuring seamless user experience and efficient management of donations",
+    link: " https://anjaneyasewasamiti.com/",
   },
 ];
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: "Syed Jamal",
-    role: "Frontend Developer at Meganos Software",
+    name: "S.K Rana",
+    role: "CEO at Jugaad Business",
     feedback:
-      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
+      "Guddu Services is an invaluable part of our software development team. & always goes the extra mile to ensure we are satisfied and happy with the results. & has come to understand",
   },
   {
-    name: "Wajahat Malek",
-    role: "CEO at Duseca Software",
+    name: "Robin Singh",
+    role: "CEO at Cluix Pvt.Ltd.",
     feedback:
-      "Hanzla has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Hanzla is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Hanzla for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
+      " I just launched my website last month. The designers at Guddu. are very much worthy for this.  Now, I am having my website as I wanted it and with also some other features that worked good suggested by them, and I can't think of.",
   },
   {
-    name: "Zaid Zaffar",
-    role: "CEO at ZR Technologies",
+    name: "Aisa Sharma",
+    role: "CEO at Sportskomaki",
     feedback:
-      "Very skilled at what he does and has an in depth knowledge of Django and he's always ready to handle any challenges thrown at him. He's been a valuable member of my team and i look forward to working with him in the years to come",
+      "Guddu is a highly trusted partner and offers quality work to its client. They are cost-effective and timely in all their undertakings. Being its client, I am impressed by the quality standard they maintain in their website development services.",
   },
 ];
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Guddu Giri",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
-  keywords: [
-    "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
-    "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
-  ],
+  author: "Guddu Giri",
+  image: "/img/icons/common/guddu.jpg",
+  url: "https://gudduportfolio.vercel.app/",
+  keywords: ["Guddu", "Guddu Giri", "@Guddugiri1", "Portfolio", "Guddu Portfolio ", "Guddu Giri Portfolio"],
 };
