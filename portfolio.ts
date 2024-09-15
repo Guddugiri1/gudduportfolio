@@ -134,6 +134,14 @@ export const experience: ExperienceType[] = [
     date: "June 12,2023 - Sept 02,2023",
     desc: " I have gained a solid foundation in Rust programming through thorough learning and practical experience. This includes building a functional calculator application, demonstrating proficiency in key programming concepts. Additionally, I've applied Rust in both front-end and back-end development, gaining full-stack experience. These experiences have sharpened my problem-solving, analytical thinking, and teamwork skills through collaborative projects.",
   },
+
+  {
+    role: "Fullstack Stack Developer",
+    company: "RAAPYD",
+    companyLogo: "/img/icons/common/download1.jpeg",
+    date: "August 12,2024 - Present",
+    desc: " I am currently working as a Full Stack Developer at Raapy, where I have gained expertise in HTML, CSS, JavaScript, AngularJS, Java Spring Boot, and Bootstrap. I have worked on multiple projects, focusing on both front-end and back-end development, applying the knowledge I’ve acquired through hands-on experience. My work at Raapy has allowed me to enhance my skills and deepen my understanding of these technologies.",
+  },
   // {
   //   role: "Full Stack Developer",
   //   company: "Duseca Software",
@@ -189,6 +197,21 @@ export const projects: ProjectType[] = [
     name: "Anjaneya Sewa Samiti",
     desc: " Designed and developed the Anjaneya Sewa Samiti food donation charity trust website from front to back-end, ensuring seamless user experience and efficient management of donations",
     link: " https://anjaneyasewasamiti.com/",
+  },
+  {
+    name: "Uniqueprint4u",
+    desc: " This project is an All-in-One Print Portal developed using PHP, HTML, CSS, Laravel, and various APIs. The portal allows users to easily upload documents and place printing orders, offering a seamless user experience. It integrates APIs for real-time processing, payment gateways, and order tracking. The front-end, built with HTML and CSS, ensures a responsive and user-friendly interface, while Laravel is used to manage the back-end, ensuring smooth functionality, security, and scalability.",
+    link: " https://uniqueprint4u.in/",
+  },
+  {
+    name: "Instagram Web Page Clone",
+    desc: "Developed a fully responsive Instagram web page clone using only HTML and CSS. Focused on recreating the user interface, layout, and design to closely mimic the original platform while ensuring compatibility across different screen sizes.",
+    link: "https://raapydinstaclone.netlify.app/",
+  },
+  {
+    name: "Titan Ecommerce Web Page Clone",
+    desc: "Developed a responsive home page for a Titan eCommerce website clone using HTML, CSS, and Bootstrap. Focused on clean design, layout, and cross-device compatibility to replicate the brand's user experience.",
+    link: "https://titan-website-clone.vercel.app/",
   },
 ];
 
